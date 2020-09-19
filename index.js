@@ -23,5 +23,5 @@ class Formatter {
       }
    }
    return titleizedInput.trim()
-  }  
-} 
+  }
+}
